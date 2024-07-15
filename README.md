@@ -10,5 +10,7 @@ This task involved predicting house prices using a machine learning model. The d
 This task focused on developing a deep learning model to classify images as cats or dogs. The dataset, sourced from Kaggle, comprised a large volume of images (25,000). Given the data size, a Convolutional Neural Network (CNN) was employed for its effectiveness in image recognition.
 
 The approach involved two stages:
+
 -Preprocessing and Data Augmentation: Image data preprocessing was performed using techniques like image resizing and normalization. Additionally, data augmentation techniques within the Keras ImageDataGenerator were utilized to artificially expand the dataset and improve model robustness.
+
 -Transfer Learning with CNN and SVM: A pre-trained CNN model was employed for feature extraction. Transfer learning leveraged the pre-trained model's ability to recognize image patterns, saving training time and improving performance. The extracted features were then fed into a Support Vector Machine (SVM) for final classification of cats and dogs.
