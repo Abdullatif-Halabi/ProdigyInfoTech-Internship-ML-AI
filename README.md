@@ -32,6 +32,7 @@ This project aims to develop a model capable of classifying food images and esti
 
 ### This repository contains two primary notebooks:
 Prodigy_Task5: Demonstrates the core model architecture and training process using a classification approach.
+
 DataPreparation_for_YOLOseg: Outlines the data preprocessing and engineering steps required for a YOLO segmentation model, providing a foundation for future work.
 
 ### Limitations
