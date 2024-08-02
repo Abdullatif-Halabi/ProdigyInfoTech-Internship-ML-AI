@@ -27,7 +27,7 @@ The approach involved two stages:
 
 
 
-##Task 5: Food Image Classification and Calorie Estimation
+## Task 5: Food Image Classification and Calorie Estimation
 This project aims to develop a model capable of classifying food images and estimating their calorie content. Initially, the goal was to employ a YOLO segmentation model for precise food identification and quantification. However, due to computational constraints (limited GPU access), the project transitioned to a classification-based approach.
 
 ###This repository contains two primary notebooks:
