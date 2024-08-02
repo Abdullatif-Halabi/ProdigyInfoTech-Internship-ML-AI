@@ -36,7 +36,7 @@ Prodigy_Task5: Demonstrates the core model architecture and training process usi
 DataPreparation_for_YOLOseg: Outlines the data preprocessing and engineering steps required for a YOLO segmentation model, providing a foundation for future work.
 
 ### Limitations
-The project was significantly impacted by limited GPU resources. As a result, the training dataset for the classification model was reduced, potentially affecting the model's accuracy. Additionally, the dataset used for data engineering is not ideal for production use and serves primarily as a demonstration of the process.
+The project was significantly impacted by limited GPU resources. As a result, the training dataset for the classification model was reduced, potentially affecting the model's accuracy. Additionally, the dataset used in 'DataPreparation_for_YOLOseg' is not ideal for production use and serves primarily as a demonstration of the process.
 
 Future Work
 Expand the dataset to improve model performance.
